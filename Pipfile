@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 flask = "*"
 scikit-learn = "*"
+joblib = "*"
 
 [requires]
 python_version = "3.6"
