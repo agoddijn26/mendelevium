@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="189d23e5-9cf1-4f09-ac97-07d99a4c8971" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../mendelevium/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mendelevium/docker_build.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mendelevium/docker_run.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mendelevium/.idea/categoriser.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mendelevium/.idea/mendelevium.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mendelevium/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mendelevium/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mendelevium/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mendelevium/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mendelevium/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mendelevium/utils.py" afterDir="false" />
-    </list>
+    <list default="true" id="189d23e5-9cf1-4f09-ac97-07d99a4c8971" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +37,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../mendelevium/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -54,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../mendelevium/.gitignore">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -396,24 +388,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563442199972</updated>
-      <workItem from="1563442201323" duration="18468000" />
+      <workItem from="1563442201323" duration="18845000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18468000" />
+    <option name="totallyTimeSpent" value="18845000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-1283" width="1200" height="1920" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24956822" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24956822" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32972974" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32972974" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32972974" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
@@ -529,6 +521,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../mendelevium/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/../mendelevium/docker_run.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -542,9 +537,6 @@
           <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../mendelevium/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
