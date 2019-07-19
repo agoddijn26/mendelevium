@@ -14,22 +14,3 @@ def longest_substring(s1, s2):
     seqmatch = SequenceMatcher(None, s1.lower(), s2.lower())
     match = seqmatch.find_longest_match(0, len(s1), 0, len(s2))
     return match.size
-
-
-def contain_food_words(s1, s2):
-    list1 = list(filter(None, s1.upper().split(" ")))
-    list2 = list(filter(None, s2.upper().split(" ")))
-    list1contains = False
-    list2contains = False
-    for item in list1:
-        if item.lower() in relatedfoodwords:
-            list1contains = True
-            break
-    for item in list2:
-        if item.lower() in relatedfoodwords:
-            list2contains = True
-            break
-    return list1contains and list2contains
-
-
-relatedfoodwords = ["food", "brunch", "drinks", "dinner", "breakfast"]
