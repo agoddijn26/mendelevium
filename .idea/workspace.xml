@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="189d23e5-9cf1-4f09-ac97-07d99a4c8971" name="Default Changelist" comment="" />
+    <list default="true" id="189d23e5-9cf1-4f09-ac97-07d99a4c8971" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../mendelevium/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mendelevium/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -388,12 +390,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563442199972</updated>
-      <workItem from="1563442201323" duration="18845000" />
+      <workItem from="1563442201323" duration="19123000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18845000" />
+    <option name="totallyTimeSpent" value="19123000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-1283" width="1200" height="1920" extended-state="0" />
