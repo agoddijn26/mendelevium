@@ -14,6 +14,12 @@ app = Flask(__name__)
 THRESHOLD = 0.9
 
 
+@app.route('/healthcheck', methods=['GET'])
+def healthcheck():
+    health = {"status": "healthy"}
+    return make_response(jsonify(health), 200)
+
+
 # Header: USER_ID_HEADER('x-n26-userid') (required)
 # Body: JSON Transaction
 @app.route('/find-similar-transactions', methods=['POST'])
